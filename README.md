@@ -2,7 +2,7 @@
 
 To run the codes used in this project, the following steps should be followed:
 1. Download codes from the repository: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix 
-2. Run the UpperAirwayCycleGAN.iypnb
+2. Run the UpperAirwayCycleGAN.ipynb
 
 
 ## Dependencies
