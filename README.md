@@ -11,5 +11,9 @@ Same as the codes in https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 ## Dataset
 The datasets used a can be found from USC open source dataset A multispeaker dataset of raw and reconstructed speech production real-time MRI video and 3D volumetric images (https://figshare.com/articles/dataset/A_multispeaker_dataset_of_raw_and_reconstructed_speech_production_real-time_MRI_video_and_3D_volumetric_images/13725546/1)
 
+## Presentation file
+https://github.com/rushdi-rusho/T1-To-T2-Upper-Airway-MRI/blob/main/Presentation/T1%20to%20T2_MRI_GAN_Rushdi_Rusho.pdf
 
+#### Contact
+email me at rushdizahid-rusho@uiowa.edu
 
